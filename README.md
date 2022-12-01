@@ -1,2 +1,2 @@
 # 100daysofcode
-an attempt at doing the coding challenge
+This is my attempt at doing the coding challenge. Hopefully, I'll be consistent.
