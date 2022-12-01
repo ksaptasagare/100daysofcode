@@ -6,7 +6,7 @@ import datetime
 
 #making an age calculator class
 class agecalc:
-    def __init__(self,y,m,d):
+    def __init__(self,d,m,y):
         self.d = d
         self.m = m
         self.y = y
@@ -27,7 +27,7 @@ y = int(input("Year: "))
 m = int(input("Month: "))
 d = int(input("Day: "))
 
-#creating an object of class and the calling the method
+#creating an object of class and calling the method
 obj = agecalc(d,m,y)
 age = obj.age_y(d,m,y)
 print("The date of birth is {0:0}-{1:0}-{2:2}".format(d,m,y))
