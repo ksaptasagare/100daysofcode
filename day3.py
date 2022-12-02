@@ -3,7 +3,7 @@
 #importing the randint method from random module to generate a random integer
 from random import randint
 
-#method to run the guessing game, the no of tries are taken from the user
+#method to run the guessing game, the no of tries are limited to 5
 def guess():    
     i = 0
     print(f"You have 5 guesses.\n")
@@ -11,7 +11,7 @@ def guess():
     n = int(input("Number: "))
     rand = randint(1,100)
     while(i<4):
-        #giving the user some hints to reduces the attempts
+        #giving the user some hints to reduce the attempts
         if(n<rand):
             print("\nYour guess is smaller than the mystery number.")
             n = int(input("Enter again: "))
