@@ -9,4 +9,4 @@ day3.py - number guessing game limited to 5 tries
 
 day4.py - countdown timer with time(seconds) as input
 
-day5.md - went over the basics of python oop (__init__, __sizeof__, __str__, __hash__)
+day5.md - went over the basics of python oop (inheritance, overloading, classes & objects)
