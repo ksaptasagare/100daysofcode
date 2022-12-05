@@ -18,4 +18,4 @@ Some OOP concepts in python are as follows:
 
 5. Method Overloading: It is the process of redefining a pre-defined method in base class or an inherited method in derived class to perform a class specific task. 
 
-Everything in python is an object.
+Everything in python is an object. 
