@@ -14,3 +14,5 @@ day5.md - went over the basics of python oop (inheritance, overloading, classes 
 day6.md - exception handling in python (try, except, finally, raise, else)
 
 day7.py - calculating the mean, median, mode (statistics)
+
+day8.py - calculating the lcm - least common multiple (two nos.)
