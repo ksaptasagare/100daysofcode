@@ -16,3 +16,5 @@ day6.md - exception handling in python (try, except, finally, raise, else)
 day7.py - calculating the mean, median, mode (statistics)
 
 day8.py - calculating the lcm - least common multiple (two nos.)
+
+day9.py - printing prime numbers upto n (user input)
